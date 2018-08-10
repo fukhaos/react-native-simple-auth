@@ -1,5 +1,5 @@
 {
-  "name": "omgduke/react-native-simple-auth",
+  "name": "@omgduke/react-native-simple-auth",
   "version": "2.4.1",
   "description": "Native social authentication for React Native",
   "main": "index.js",
