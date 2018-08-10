@@ -8,6 +8,12 @@
   * [Usage](#usage)
   * [License](#license)
 
+Forked from [Adam Mcgrath](https://github.com/adamjmcgrath/react-native-simple-auth)
+
+Changes:
+- No longer gets a google token or user details. This can then be sent to a server to auth.
+- Asks for offline access from google for server requests.
+
 Screencast
 ==========
 
