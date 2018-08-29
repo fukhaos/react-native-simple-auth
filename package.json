@@ -1,6 +1,6 @@
 {
   "name": "@omgduke/react-native-simple-auth",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "description": "Native social authentication for React Native",
   "main": "index.js",
   "scripts": {
