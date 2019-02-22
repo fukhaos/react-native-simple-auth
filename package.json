@@ -1,5 +1,5 @@
 {
-  "name": "@omgduke/react-native-simple-auth",
+  "name": "@fukhaos/react-native-simple-auth",
   "version": "2.6.1",
   "description": "Native social authentication for React Native",
   "main": "index.js",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OMGDuke/react-native-simple-auth"
+    "url": "https://github.com/fukhaos/react-native-simple-auth"
   },
-  "homepage": "https://github.com/OMGDuke/react-native-simple-auth",
+  "homepage": "https://github.com/fukhaos/react-native-simple-auth",
   "author": "Alex Robertson",
   "keywords": [
     "react-native",
@@ -23,7 +23,7 @@
     "simple-auth"
   ],
   "bugs": {
-    "url": "https://github.com/OMGDuke/react-native-simple-auth/issues"
+    "url": "https://github.com/fukhaos/react-native-simple-auth/issues"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
